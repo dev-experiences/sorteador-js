@@ -1,6 +1,7 @@
 body {
   font: 16px sans-serif;
-  color: #1F2729;
+  color: #fff;
+  background: #1F2729;
 }
 
 .container {
